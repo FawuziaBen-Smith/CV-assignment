@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url(CVVC.jpg.jpg);
+    background-size:cover;
+    text-align: justify;
+    height: 100vh;
+
+}
+.wrapper{
+    margin: 0%;
+    position:absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 100%;
+    padding: 0 20px;
+
+}
+
+.container{
+    max-width: 550px;
+    margin: 0 auto;
+    position:absolute;
+    background:rgba(70, 80,0,0.8);
+    padding: 30px;
+    border-radius: 5px;
+    display: flex;
+    box-shadow: 0 0 10px rgba (50, 70,0, 0.8);
+    margin-left: 40%;
+    
+
+}
+
+    
+.title{
+    width: 1000px;
+    background-color:white;
+    margin: auto;
+    margin-top: 50px;
+    color:plum ;
+    padding: 10px 0px 10px 0px;
+    text-align: center;
+    border-radius: 15px;
+    margin-right: 40%;
+}
+.fixed{
+    margin: 0;
+    padding: 0;
+    line-height: 20px;
+}
